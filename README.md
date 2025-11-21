@@ -46,8 +46,8 @@ This project leverages Spring Boot for the backend, MySQL for database managemen
 - Open a terminal or command prompt within the project directory.
 - Or you can clone the repository using:
      ```
-     git clone https://github.com/2200031797KavyaA/StudentProjectAndPortfolioManagement.git
-     cd StudentProjectAndPortfolioManagement
+     git clone https://github.com/Sai-Developer-1405/EDUPORTFOLIO-VISION-HUB.git
+     cd EDUPORTFOLIO-VISION-HUB
      ```
 - Set Up Backend:
   - Ensure Java 18+ and Spring Tool Suite (STS) are installed.
