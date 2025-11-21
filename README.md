@@ -65,10 +65,4 @@ This project leverages Spring Boot for the backend, MySQL for database managemen
 
 That's it! You've successfully set up and launched Eduportfolio Vision Hub on your local system.
 
-**Output Video:**
-
-Please watch the video at 0.5x for your convenience.
-
-https://github.com/user-attachments/assets/ab824a9a-f5b4-4667-a4ec-a0cc6d0d7379
-
 
