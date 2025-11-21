@@ -2,7 +2,7 @@
 
 **Project Overview:**
 
-EDUPORTFOLIO VISION HUB is a web-based application designed to help students showcase their projects and portfolios while allowing teachers or institutions to monitor, manage, and provide feedback on student progress. This platform provides an interactive and user-friendly solution for tracking project milestones, uploading media files, and presenting student achievements in an organized manner.
+EduPortfolio Vision Hub is a web-based application designed to help students showcase their projects and portfolios while allowing teachers or institutions to monitor, manage, and provide feedback on student progress. This platform provides an interactive and user-friendly solution for tracking project milestones, uploading media files, and presenting student achievements in an organized manner.
 
 The application features 3 roles: Admin (Institution), Teacher, and User (Student). The Admin can add teachers and students, manage their profiles, review all CRUD operations, and accept or reject entries. The Teacher can update their profile, view the projects and portfolios of assigned students, and provide feedback. The Student can update their profile, upload projects and portfolios, and manage updates for both. This system ensures streamlined workflows and effective collaboration between students, teachers, and administrators.
 
@@ -61,13 +61,14 @@ This project leverages Spring Boot for the backend, MySQL for database managemen
   - Go to the Boot Dashboard, right-click the project, and select Start to run the application.
 - Frontend:
   - The frontend is built using JSP (Java Server Pages) and is served directly by the Spring Boot application.
-- Open a web browser and navigate to `http://localhost:1797/` to access the EDUPORTFOLIO VISION HUB.
+- Open a web browser and navigate to `http://localhost:1797/` to access the EduPortfolio Vision Hub.
 
-That's it! You've successfully set up and launched EDUPORTFOLIO VISION HUB on your local system.
+That's it! You've successfully set up and launched Eduportfolio Vision Hub on your local system.
 
 **Output Video:**
 
 Please watch the video at 0.5x for your convenience.
 
 https://github.com/user-attachments/assets/ab824a9a-f5b4-4667-a4ec-a0cc6d0d7379
+
 
